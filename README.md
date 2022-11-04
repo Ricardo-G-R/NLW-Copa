@@ -37,10 +37,16 @@ O Calendário da Copa, é um projeto que mostra os jogos da Copa de 2022: os tim
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1169028052212317700). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## ⚖ Licença
+## 🌍 Licença
 
 Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Ricardo :wave: [Participe da comunidade de Devs da Rocketseat ](https://discord.gg/rocketseat)
+Feito com ♥ by Ricardo :wave: [Participe da comunidade de Devs da Rocketseat ](https://discord.gg/rocketseat)~
+
+## 🐺 Contato
+
+ricardogoncalves991@gmail.com
+
++55 (21)97419-6424
